@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "title": "Android & Ios",
+    "teachers": [
+        {
+            "name": "Vazgen",
+            "img": "https://pictures.telegram-store.com/channels/proweb/509_2021_06_04_1_.jpg",
+            "link": "https:google.com",
+            "lang": "ru"
+        },
+        {
+            "name": "Zafar",
+            "img": "https://pictures.telegram-store.com/channels/proweb/509_2021_06_04_1_.jpg",
+            "link": "https:google.com",
+            "lang": "ru"
+        }
+    ]
+}
